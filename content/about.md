@@ -1,16 +1,9 @@
 ---
-date: "2014-04-09"
+date: "2020-05-02"
 title: "About"
 ---
+I live in Singapore with my husband. I was born and brought up in Rajnandgaon, Chhattisgarh, India. I did my graduation(Bachelor of Engineering in Electronics and Telecommunication)  from Swami Vivekananda University, Bhilai, Chhattisgarh, India.
+I am a professional Software Engineer. In my last role with Cognizant Technology Solutions, i worked on Oracle Retail Applications. 
+I do have interest in trading and i aspire to be a quant researcher. 
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+In my Leisure time i read techical news, cook food, travel, yoga and do meditation.

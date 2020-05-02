@@ -1,14 +1,8 @@
 ---
-date: "2017-06-26T18:27:58+01:00"
+date: "2020-05-02T18:27:58+01:00"
 title: "Home"
 ---
 
-Welcome to **Cupper**: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project. Here are some of its features:
+Hello, i am enthusiastic and passionate about Quant and Trading domain. I am training myself to become a quantitative developer in a reputed firm. Currently i am udergoing Executive Program in Algorithmic Trading(EPAT) by Quantinsti. In EPAT i am learning Algorithmic Trading in Risk Management and Portfolio Optimization, Statistical Arbitrage, pair trading using Excel, Python, Machine Learning and Data Science.
 
-{{< ticks >}}
-* Screen reader and keyboard accessible
-* Responsive
-* Numerous shortcodes
-* Toggleable dark theme
-* Toggleable table of contents per blog post
-{{< /ticks >}}
+I am excited to share my journey with all of you. In this website i will keep posting about my new learnings and research.

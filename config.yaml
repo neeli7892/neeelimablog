@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
+  description: Hi! I'm <b> Neelima Mohabe </b>Welcome to my blog.
   homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
   footer: This site is maintained by Neelima.
   # For more date formats see https://gohugo.io/functions/format/
