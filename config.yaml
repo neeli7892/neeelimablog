@@ -1,7 +1,7 @@
 baseURL: https://neeli7892.github.io
 languageCode: en-us
 defaultContentLanguage: en
-title: Cupper
+title: Neelima
 theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
@@ -18,10 +18,10 @@ imaging:
 
 params:
   description: Hi! I'm <b> Neelima Mohabe </b>Welcome to my blog.
-  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
+  homeMetaContent: This is Neelima's blog. Find about her journey from software engineer to quant.
   footer: This site is maintained by Neelima.
   # For more date formats see https://gohugo.io/functions/format/
-  dateFormat: Jan 2, 2006
+  dateFormat: Jan 2, 2020
   codePenUser: someUser
   katex: true
 
